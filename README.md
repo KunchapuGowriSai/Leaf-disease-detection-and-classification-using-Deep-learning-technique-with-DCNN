@@ -83,13 +83,14 @@ pip install -r requirements.txt
 
 # Run the application
 python app.py
+```
 
-
-📸 Usage
-Open the application
-Upload a leaf image
-Click on Predict
-View the detected disease result
+## 📸 Usage
+- Open the application
+- Upload a leaf image
+- Click on Predict
+- View the detected disease result
+```
 
 Leaf-disease-detection-and-classification-using-Deep-learning-technique-with-DCNN/
 │
@@ -102,15 +103,15 @@ Leaf-disease-detection-and-classification-using-Deep-learning-technique-with-DCN
 └── README.md
 
 ```
-🔮 Future Enhancements
-Add more plant species
-Improve model accuracy with larger datasets
-Deploy mobile application
-Add treatment recommendation system
-Predict disease severity
+## 🔮 Future Enhancements
+- Add more plant species
+- Improve model accuracy with larger datasets
+- Deploy mobile application
+- Add treatment recommendation system
+- Predict disease severity
 
 
 
-📜 Publication
+## 📜 Publication
 
-This project is published in a Springer Conference[https://link.springer.com/chapter/10.1007/978-3-032-13177-5_34].
+- This project is published in a Springer Conference[https://link.springer.com/chapter/10.1007/978-3-032-13177-5_34].
