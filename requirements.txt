@@ -1,0 +1,6 @@
+gradio
+tensorflow
+pillow
+numpy
+google-generativeai
+opencv-python-headless
